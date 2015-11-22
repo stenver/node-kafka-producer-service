@@ -1,0 +1,17 @@
+{
+  "name": "node-kafka-producer-service",
+  "description": "A simple service that send messages to kafka topics through STDIN",
+  "version": "0.0.1",
+  "author": "Stenver Jerkku <stenver1010@gmail.com>",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stenver/node-kafka-producer-service"
+  },
+  "dependencies": {
+    "coffee-script": "~> 1.10.0",
+    "kafka-node": "~> 0.2.29",
+    "command-line-args": "~> 2.1.0"
+  }
+}
+
